@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "MyFont"; /* o'zingiz nom bering */
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("@/assets/webfonts/MyFont.woff2") format("woff2"),
+       url("@/assets/webfonts/MyFont.woff") format("woff");
+}
